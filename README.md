@@ -2,7 +2,7 @@
 👀 I’m interested in algorithmic trading and options strategies.  
 🌱 I’m currently learning Angel One Smart API for trading bots.  
 💞️ I’m looking to collaborate on trading strategy development.  
-📫 How to reach me: vao2011@example.com  
+📫 How to reach me: virajgm@gmail.com  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love analyzing market trends!
 
